@@ -6,6 +6,7 @@ Project description:
 The project provides a Python implementation of the methods FIISS (reference link below), I-FASST (reference link below), X-I-FASST (in submission), 'feature dependency extraction algorithm' referred as Vogelsang method (reference link below), and their evaluation (in submission). These methods identify feature interactions between safety and security features of a safety-critical system.
 
 Link to our FIISS publication https://ieeexplore.ieee.org/document/10092690
+
 Link to our I-FASST publication https://ieeexplore.ieee.org/document/10092690
 
 Link to publication of feature dependency extraction algorithm  https://www.sciencedirect.com/science/article/abs/pii/S0164121219302328#fig0001
